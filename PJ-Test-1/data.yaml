@@ -1,0 +1,6 @@
+names:
+- cocacola
+- pepsi
+nc: 2
+train: PJ-Test-1/train/images
+val: PJ-Test-1/valid/images
